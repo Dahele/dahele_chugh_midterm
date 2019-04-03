@@ -489,3 +489,11 @@ body
 	background-color: #666e52;
 }
 
+#contactForm{
+	width: 500px;
+	display: none;
+}
+
+#contactForm.slideToggle{
+	display: block;
+}

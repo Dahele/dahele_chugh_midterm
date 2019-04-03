@@ -8,7 +8,6 @@
 		console.log("button clicked");
 		contactForm.classList.toggle("slideToggle");
 		button.classList.toggle("expanded");
-		mailB.classList.toggle(".mail")
 	}
 
 	button.addEventListener("click", popUpForm);
